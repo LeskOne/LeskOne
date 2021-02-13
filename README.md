@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LeskOne
+- 👋 Hi, I’m Giona Calcagnile
 - 👀 I’m interested in Web development  
 - 🌱 I’m currently learning React
 - 📫 Reach me via gionacalcagnile@gmail.com
